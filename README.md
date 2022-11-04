@@ -45,7 +45,7 @@ One or more words are misspelled in the <code>NEWS.md</code> file.
 <br/>
 
 <details><summary>Click here for the solution ✅</summary>
-The word <code>link</code> is misspelled as <code>linke</code> in <code>NEWS.md</code>.
+The word <code>link</code> is misspelled as <code>linked</code> in <code>NEWS.md</code>.
 The word <code>strangephrase</code> should be <code>strange phrase</code> in <code>NEWS.md</code>.
 Fix the spelling first in the <code>NEWS.md</code> file.
 Next, simply run <code>spelling::update_wordlist(confirm="Yes")</code> to add technical jargon to the wordlist.
